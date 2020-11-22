@@ -1108,7 +1108,7 @@ GET /products/_doc/100
     "in_stock" : 4
   }
 }
-```'
+```
 
 - curl command:
 ```bash
