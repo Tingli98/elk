@@ -7,8 +7,8 @@ command as follows:
 
 ## Kibana Console
 
-```http
 - Commend input: Checking the cluster's health
+```http
   GET /_cluster/health
 ```
 
@@ -21,7 +21,7 @@ command as follows:
   "number_of_nodes" : 1,
   "number_of_data_nodes" : 1,
   "active_primary_shards" : 5,
-  "active_shards" : 5```json,
+  "active_shards" : 5,
   "relocating_shards" : 0,
   "initializing_shards" : 0,
   "unassigned_shards" : 4,
